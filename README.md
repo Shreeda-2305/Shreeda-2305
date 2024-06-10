@@ -1,14 +1,18 @@
-<img align="left" height="300" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"  />
-
-###
-
-<h2 align="center">Hey 👋</h2>
+<h2 align="center">Hey there... 👋</h2>
 
 ###
 
 <p align="center">My name is  Shreeda and I'm a backend developer from India...</p>
 
 ###
+
+<div align="center">
+  <img height="550" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"  />
+</div>
+
+###
+
+<br clear="both">
 
 <h2 align="center">About me</h2>
 
