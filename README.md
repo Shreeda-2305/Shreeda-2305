@@ -14,12 +14,6 @@
 
 <br clear="both">
 
-<h2 align="center">About me</h2>
-
-###
-
-<br clear="both">
-
 <p align="center">📚 I'm currently learning full stack development to broaden my skills beyond backend.<br>🎯 Goals: To become a proficient full stack developer and contribute to innovative projects.</p>
 
 ###
