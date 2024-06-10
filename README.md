@@ -1,4 +1,4 @@
-<h2 align="center">Hey there... 👋</h2>
+<h1 align="center">Hey there... 👋</h1>
 
 ###
 
@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="550" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"  />
+  <img height="500" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"  />
 </div>
 
 ###
@@ -17,6 +17,8 @@
 <h2 align="center">About me</h2>
 
 ###
+
+<br clear="both">
 
 <p align="center">📚 I'm currently learning full stack development to broaden my skills beyond backend.<br>🎯 Goals: To become a proficient full stack developer and contribute to innovative projects.</p>
 
